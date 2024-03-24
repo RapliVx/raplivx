@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on school or home
 - 🌱 I’m currently learning kernel android
-- 🤔 I’m looking for help with my girlfriend
 - ⚡ Fun fact: i am a random guy bruh :v
