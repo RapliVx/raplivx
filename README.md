@@ -19,6 +19,7 @@ Learning : Android, Kotlin, JavaScript, Python.
 Hobbies: Watching Anime, Music, and Gaming.
 Girlfriend: Rias Gremory ❤️.
 
+
 ```
 ```zsh
 > My Stats LOL
