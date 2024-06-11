@@ -73,7 +73,7 @@ Girlfriend: Rias Gremory ❤️.
 
 <p align="center">
   <a href="https://github.com/raplivx"><img alt="Github" title="RapliVX Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:raffikun1202@gmail.com"><img alt="Gmail" title="Rapli Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:raffikun1203@gmail.com"><img alt="Gmail" title="Rapli Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://t.me/KamiSkizofrenia"><img alt="Telegram" title="Rapli Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
  </p>
 </div>
