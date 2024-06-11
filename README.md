@@ -23,15 +23,11 @@ Girlfriend: Rias Gremory ❤️.
 ```zsh
 > My Stats LOL
 ```
-### Hi there 👋 I'm Rapli
 
 <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=raplivx&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 
-
-
-
-
+### Hi, I'm Rapli 👋 
 - 🌱 I’m learning Android~
 - 🏠 I'm a RPL school student Like IT of indonesia 
 - A staunch capitalist
