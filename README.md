@@ -31,6 +31,7 @@ Girlfriend: Rias Gremory ❤️.
 
 
 
+
 - 🌱 I’m learning Android~
 - 🏠 I'm a RPL school student Like IT of indonesia 
 - A staunch capitalist
