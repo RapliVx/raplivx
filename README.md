@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="img/Rias_Gremory.png" width="210px"/> 
+<img align="left" src="img/Rias.png" width="210px"/> 
 
 ```csharp
 Rapli@Potato
