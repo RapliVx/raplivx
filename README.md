@@ -15,6 +15,6 @@ Terminal: Relay(362)
 CPU: Intel i5-2400 (4) @ 3.092GHz
 Memory : 473MiB / 16384MiB
 Telegram: @ErOneSoul.
-Learning : Android, Kotlin.
+Learning : Android, Kotlin, JavaScript, Python.
 Hobbies: Watching Anime, Music, and Gaming.
 Girlfriend: Rias Gremory ❤️.
