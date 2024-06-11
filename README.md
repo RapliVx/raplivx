@@ -1,15 +1,20 @@
-![other](https://github.com/RapliVx/raplivx/blob/a64e9f00e48b5375ee952cc5cb3c0674aba606c8/benner.jpeg)
-### Hallo Nigg- 👋
+```zsh
+> neofetch
+```
 
-<!--
-**RapliVx/raplivx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="img/Rias_Gremory.png" width="210px"/> 
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on school or home
-- 🌱 I’m currently learning kernel android
-- 🤔 I’m looking for help with my girlfriend
-- ⚡ Fun fact: i am a random guy bruh :v
--->
-- 🔭 I’m currently working on school or home
-- 🌱 I’m currently learning kernel android
-- ⚡ Fun fact: i am a random guy bruh :v
+```csharp
+Rapli@Potato
+---------------------------------------------------
+Username: Rafi Aditya.
+OS: Ubuntu 22.04.4 LTS on Windows 10 x86_64
+Shell: bash 5.1.16
+Languages: C++, C, Python, JavaScript.
+Terminal: Relay(362)
+ CPU: Intel i5-2400 (4) @ 3.092GHz
+Memory : 473MiB / 16384MiB
+Telegram: @ErOneSoul.
+Learning : Android, Kotlin.
+Hobbies: Watching Anime, Music, and Gaming.
+Girlfriend: Rias Gremory ❤️.
