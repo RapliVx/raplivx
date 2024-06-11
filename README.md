@@ -47,3 +47,35 @@ Girlfriend: Rias Gremory ❤️.
 ![MI8953](https://img.shields.io/badge/Xiaomi%20MSM8953-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![MSM8917](https://img.shields.io/badge/Xiaomi%20MSM8917-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 
+<div align="center"> 
+    
+### Hi Everyone
+<img src=https://moe-counter.es3n1n.eu/get/@raplivx width="500px" />
+
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raplivx&theme=youtube-dark)](https://git.io/streak-stats)
+
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/ZkoseoSVGIBmXTnWq8/giphy.gif" width ="80"><b>Let's Connect..!</b>
+<br>
+<div align='left'>
+
+<p align="center">
+  <a href="https://github.com/raplivx"><img alt="Github" title="RapliVX Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:raffikun1202@gmail.com"><img alt="Gmail" title="Rapli Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/KamiSkizofrenia"><img alt="Telegram" title="Rapli Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+ </p>
+</div>
+
+<br>
