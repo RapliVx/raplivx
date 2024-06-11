@@ -18,3 +18,20 @@ Telegram: @ErOneSoul.
 Learning : Android, Kotlin, JavaScript, Python.
 Hobbies: Watching Anime, Music, and Gaming.
 Girlfriend: Rias Gremory ❤️.
+
+```
+```zsh
+> My Stats LOL
+```
+
+
+<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shenprjkt&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+
+
+
+### Hi there 👋 I'm Rapli
+- 🌱 I’m learning Android~
+- 🏠 I'm a RPL school student Like IT of indonesia 
+- A staunch capitalist
+- "My hobby is watching anime"
+- "I like My Waifu"
