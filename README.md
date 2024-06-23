@@ -13,7 +13,7 @@ Shell: zsh 5.9
 Languages: C++, C, Python, JavaScript.
 Terminal: Relay(362)
 CPU: Intel i5-2400 (4) @ 3.092GHz
-Memory : 473MiB / 16384MiB
+Memory : 303MiB / 16384MiB
 Telegram: @ErOneSoul.
 Learning : Android, Kotlin, JavaScript, Python.
 Hobbies: Watching Anime, Music, and Gaming.
