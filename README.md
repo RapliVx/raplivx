@@ -43,6 +43,7 @@ Girlfriend: Rias Gremory ❤️.
 ### 📱 Devices Support
 ![SDM845](https://img.shields.io/badge/Xiaomi%20SDM845-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![SM7150-AB](https://img.shields.io/badge/Xiaomi%20SM7150AB-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
+![SM6225](https://img.shields.io/badge/Xiaomi%20SM6225-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![SDM660](https://img.shields.io/badge/Xiaomi%20SDM660-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![MI8953](https://img.shields.io/badge/Xiaomi%20MSM8953-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![MSM8937](https://img.shields.io/badge/Xiaomi%20MSM8937-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
