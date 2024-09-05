@@ -8,14 +8,14 @@
 Rapli@Potato
 ---------------------------------------------------
 Username: Rafi Aditya.
-OS: Arch Linux on Windows 10 x86_64
+OS: Nyarch Linux
 Shell: zsh 5.9
-Languages: C++, C, Python, JavaScript.
+Languages: JavaScript, Java, Android, Kotlin, Python
 Terminal: Relay(362)
 CPU: Intel i5-2400 (4) @ 3.092GHz
 Memory : 303MiB / 16384MiB
 Telegram: @ErOneSoul.
-Learning : Android, Kotlin, JavaScript, Python.
+Learning : Android, Kotlin, JavaScript, C, C++.
 Hobbies: Watching Anime, Music, and Gaming.
 Girlfriend: Rias Gremory ❤️.
 
