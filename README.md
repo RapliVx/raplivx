@@ -11,7 +11,7 @@ Username: Rafi Aditya.
 OS: Nyarch Linux
 Shell: zsh 5.9
 Languages: JavaScript, Java, Android, Kotlin, Python
-Terminal: Relay(362)
+Terminal: Sway
 CPU: Intel i5-2400 (4) @ 3.092GHz
 Memory : 303MiB / 16384MiB
 Telegram: @ErOneSoul.
