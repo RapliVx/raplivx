@@ -62,7 +62,7 @@ Girlfriend: Rias Gremory ❤️.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RapliVx&theme=transparent&locale=id&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
