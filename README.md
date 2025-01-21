@@ -5,7 +5,7 @@
 <img align="left" src="img/Rias.png" width="210px"/> 
 
 ```csharp
-Rapli@Potato
+Rapli@NyarchLinux
 ---------------------------------------------------
 Username: Rafi Aditya.
 OS: Nyarch Linux
