@@ -24,7 +24,8 @@ Girlfriend: Rias Gremory ❤️.
 ➜ My Stats LOL
 ```
 
-<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=raplivx&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=RapliVx&theme=dracula&show_icons=true&hide_border=false&count_private=false" />
 
 
 ### Hi, I'm Rapli 👋 
@@ -57,26 +58,20 @@ Girlfriend: Rias Gremory ❤️.
 
 <br>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RapliVx&theme=transparent&locale=id&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 😭 Ibukiii
+<a>
+<img align="center" width="800" src="https://github.com/user-attachments/assets/fc5d7093-2f4a-487b-ad02-c27edfface62">
+<a/>
 
 </div>
 
 <br>
 
-## <img src="https://media.giphy.com/media/ZkoseoSVGIBmXTnWq8/giphy.gif" width ="80"><b>Let's Connect..!</b>
-<br>
-<div align='left'>
-
-<p align="center">
-  <a href="https://github.com/raplivx"><img alt="Github" title="RapliVX Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:raffikun1203@gmail.com"><img alt="Gmail" title="Rapli Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/KamiSkizofrenia"><img alt="Telegram" title="Rapli Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
- </p>
+# **📫 Contacts**
+<a>**Please Contact me on Telegram for a quick response** [Rapli](https://t.me/ErOneSoul)
+<img align="left" width="100" src="https://github.com/user-attachments/assets/d34d2262-b22f-4ffd-8a3f-42ffcc2c1dcf">
+If you didn't get response by me, so don't worry. I'll try to reply your response.
+</a>
 </div>
 
 <br>
