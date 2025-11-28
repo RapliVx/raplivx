@@ -13,6 +13,7 @@ Shell: zsh 5.9
 Languages: JavaScript, Java, Android, Kotlin, Python
 Terminal: Sway
 CPU: Intel i5-2400 (4) @ 3.092GHz
+GPU: AMD/ATI Radeon RX570
 Memory : 303MiB / 16384MiB
 Telegram: @ErOneSoul.
 Learning : Android, Kotlin, JavaScript, C, C++.
