@@ -2,7 +2,7 @@
 ➜ neofetch
 ```
 
-<img align="left" src="img/Rias.png" width="210px"/> 
+<img align="left" src="img/eva.png" width="210px"/> 
 
 ```csharp
 Rapli@NyarchLinux
@@ -18,7 +18,7 @@ Memory : 303MiB / 16384MiB
 Telegram: @ErOneSoul.
 Learning : Android, Kotlin, JavaScript, C, C++.
 Hobbies: Watching Anime, Music, and Gaming.
-Girlfriend: Rias Gremory ❤️.
+Girlfriend: Zero Two, Rias, Akeno, And Alya ❤️.
 
 ```
 ```zsh
@@ -32,7 +32,7 @@ Girlfriend: Rias Gremory ❤️.
 ### Hi, I'm Rapli 👋 
 - 🌱 I’m learning Android~
 - 🏠 I'm a RPL school student Like IT of indonesia 
-- A staunch capitalist
+- A staunch Karbits
 - "My hobby is watching anime"
 - "I like My Waifu"
 
